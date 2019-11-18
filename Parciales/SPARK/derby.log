@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Mon Nov 18 17:23:20 ART 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-802f-1742-0000059e2a10 
-on database directory /home/andres/OrganizacionDatos/Organizacion_Datos_2c_2019/Organizacion_Datos_2C2019/Parciales/SPARK/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@557129e6 
+Mon Nov 18 18:16:58 ART 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016e-8060-30af-00000b5f9f00 
+on database directory /home/andres/OrganizacionDatos/Organizacion_Datos_2c_2019/Organizacion_Datos_2C2019/Parciales/SPARK/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@75980a6f 
 Loaded from file:/home/andres/spark-2.3.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_181-b13
